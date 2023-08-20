@@ -2,6 +2,8 @@ import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import './globals.css'
 
+
+
 export const metadata = {
   title: 'Car Hub',
   description: 'Discover the best cars in the world.',
